@@ -80,6 +80,7 @@ run_analysis <- function() {
                }
           }
      
-          # Write the data set to a text file
+     # 6. Write the data set to a text file:
+     
           write.table(averages, "averages_by_subject_and_activity.txt", row.names=F)
 }
