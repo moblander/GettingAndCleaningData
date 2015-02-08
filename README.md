@@ -1,5 +1,5 @@
-Course Project
---------------
+Course Project2
+---------------
 
 The course project makes use of a 'Human Activity Recognition Using Smartphones' data set. To create the data set, 30 subjects each performed six activities. Subjects were divided into two groups: a training group and a testing group. As each subject performed an activity, measurements were taken in groups. Each group consisted of 128 measurements (of multiple variables) taken in succession separated by 0.02 seconds. Multiple groups of measurements were taken for each combination of subject and activity. Each group of 128 measurements was used to calculate a 561-feature vector. 
 
